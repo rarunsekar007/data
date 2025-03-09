@@ -1,0 +1,979 @@
+@ARTICLE{Pranto9857827,
+  author={Pranto, Tahmid Hasan and Hasib, Kazi Tamzid Akhter Md. and Rahman, Tahsinur and Haque, Akm Bahalul and Islam, A. K. M. Najmul and Rahman, Rashedur M.},
+  journal={IEEE Access}, 
+  title="{Blockchain and Machine Learning for Fraud Detection: A Privacy-Preserving and Adaptive Incentive Based Approach}", 
+  year={2022},
+  volume={10},
+  number={},
+  pages={87115-87134},
+  doi={10.1109/ACCESS.2022.3198956}}
+@article{Bohnsack2022,
+  author = {Bohnsack, K. S. and Kaden, M. and Abel, J. and Villmann, T.},
+  title = "{Alignment-free sequence comparison: A systematic survey from a ML perspective}",
+  journal = {IEEE/ACM Transactions on Computational Biology and Bioinformatics},
+  year = {2022},
+  doi = {10.1109/tcbb.2022.3140873}
+}
+
+@article{Toumi2023,
+  author = {Toumi, N. and Bagaa, M. and Ksentini, A.},
+  title = "{ML for Service Migration: A survey}",
+  journal = {IEEE Communications Surveys \& Tutorials},
+  volume = {25},
+  number = {3},
+  pages = {1991--2020},
+  year = {2023},
+  doi = {10.1109/comst.2023.3273121}
+}
+
+@article{Bkassiny2013,
+  author = {Bkassiny, M. and Li, Y. and Jayaweera, S. K.},
+  title = "{A survey on machine-learning techniques in cognitive radios}",
+  journal = {IEEE Communications Surveys \& Tutorials},
+  volume = {15},
+  number = {3},
+  pages = {1136--1159},
+  year = {2013},
+  doi = {10.1109/surv.2012.100412.00017}
+}
+
+@article{Amin2021,
+  author = {Amin, R. and Rojas, E. and Aqdus, A. and Ramzan, S. and Casillas-Perez, D. and Arco, J. M.},
+  title = "{A survey on ML techniques for routing optimization in SDN}",
+  journal = {IEEE Access},
+  volume = {9},
+  pages = {104582--104611},
+  year = {2021},
+  doi = {10.1109/access.2021.3099092}
+}
+
+@article{Wang2020,
+  author = {Wang, M. and Fu, W. and He, X. and Hao, S. and Wu, X.},
+  title = "{A survey on large-scale ML}",
+  journal = {IEEE Transactions on Knowledge and Data Engineering},
+  pages = {1--1},
+  year = {2020},
+  doi = {10.1109/tkde.2020.3015777}
+}
+
+@book{Banerjee2023,
+  author = {Banerjee, A.},
+  title = "{An in-depth look at Blockchain technology: Architecture and Security Concerns}",
+  booktitle = {Distributed Computing to Blockchain},
+  pages = {297--325},
+  year = {2023},
+  publisher = {Elsevier},
+  doi = {10.1016/b978-0-323-96146-2.00023-1}
+}
+
+@article{Liu2019,
+  author = {Liu, Z. and Luong, N. C. and Wang, W. and Niyato, D. and Wang, P. and Liang, Y.-C. and Kim, D. I.},
+  title = "{A survey on Blockchain: A game theoretical perspective}",
+  journal = {IEEE Access},
+  volume = {7},
+  pages = {47615--47643},
+  year = {2019},
+  doi = {10.1109/access.2019.2909924}
+}
+
+@article{Hafid2020,
+  author = {Hafid, A. and Hafid, A. S. and Samih, M.},
+  title = "{Scaling blockchains: A comprehensive survey}",
+  journal = {IEEE Access},
+  volume = {8},
+  pages = {125244--125262},
+  year = {2020},
+  doi = {10.1109/access.2020.3007251}
+}
+
+@article{Fan2020,
+  author = {Fan, C. and Ghaemi, S. and Khazaei, H. and Musilek, P.},
+  title = "{Performance evaluation of blockchain systems: A systematic survey}",
+  journal = {IEEE Access},
+  volume = {8},
+  pages = {126927--126950},
+  year = {2020},
+  doi = {10.1109/access.2020.3006078}
+}
+
+@article{UlHassan2023,
+  author = {Ul Hassan, M. and Rehmani, M. H. and Chen, J.},
+  title = "{Anomaly Detection in Blockchain Networks: A Comprehensive Survey}",
+  journal = {IEEE Communications Surveys \& Tutorials},
+  volume = {25},
+  number = {1},
+  pages = {289--318},
+  year = {2023},
+  doi = {10.1109/comst.2022.3205643}
+}
+
+@article{Sedaghat2018,
+  author = {Sedaghat, N. and Fathy, M. and Modarressi, M. H. and Shojaie, A.},
+  title = "{Combining supervised and unsupervised learning for improved MIRNA target prediction}",
+  journal = {IEEE/ACM Transactions on Computational Biology and Bioinformatics},
+  volume = {1},
+  year = {2018},
+  doi = {10.1109/tcbb.2017.2727042}
+}
+@article{usama2019unsupervised,
+  author = {Usama, M. and Qadir, J. and Raza, A. and Arif, H. and Yau, K. A. and Elkhatib, Y. and Hussain, A. and Al-Fuqaha, A.},
+  title = "{Unsupervised ML for networking: Techniques, applications and research challenges}",
+  journal = {IEEE Access},
+  volume = {7},
+  pages = {65579--65615},
+  year = {2019},
+  doi = {10.1109/access.2019.2916648}
+}
+
+@inproceedings{singhar2020integrating,
+  author = {Singhar, S. S. and Jena, D. and Sharma, S.},
+  title = "{Integrating ML with blockchain to ensure data privacy}",
+  booktitle = {2020 11th International Conference on Computing, Communication and Networking Technologies (ICCCNT)},
+  year = {2020},
+  doi = {10.1109/icccnt49239.2020.9225342}
+}
+
+@inproceedings{sun2020blockchain,
+  author = {Sun, Y. and Esaki, H. and Ochiai, H.},
+  title = "{Blockchain-based federated learning against end-point adversarial data corruption}",
+  booktitle = {2020 19th IEEE International Conference on ML and Applications (ICMLA)},
+  year = {2020},
+  doi = {10.1109/icmla51294.2020.00119}
+}
+
+@article{zerka2020blockchain,
+  author = {Zerka, F. and Urovi, V. and Vaidyanathan, A. and Barakat, S. and Leijenaar, R. T. and Walsh, S. and Gabrani-Juma, H. and Miraglio, B. and Woodruff, H. C. and Dumontier, M. and Lambin, P.},
+  title = "{Blockchain for privacy preserving and trustworthy distributed ML in Multicentric Medical Imaging (C-distrim)}",
+  journal = {IEEE Access},
+  volume = {8},
+  pages = {183939--183951},
+  year = {2020},
+  doi = {10.1109/access.2020.3029445}
+}
+
+@article{tanwar2020ml,
+  author = {Tanwar, S. and Bhatia, Q. and Patel, P. and Kumari, A. and Singh, P. K. and Hong, W.-C.},
+  title = "{ML adoption in blockchain-based smart applications: The Challenges, and a way forward}",
+  journal = {IEEE Access},
+  volume = {8},
+  pages = {474--488},
+  year = {2020},
+  doi = {10.1109/access.2019.2961372}
+}
+
+@article{michalski2020revealing,
+  author = {Michalski, R. and Dziubaltowska, D. and Macek, P.},
+  title = "{Revealing the character of nodes in a blockchain with supervised learning}",
+  journal = {IEEE Access},
+  volume = {8},
+  pages = {109639--109647},
+  year = {2020},
+  doi = {10.1109/access.2020.3001676}
+}
+
+@article{kumar2021ppsf,
+  author = {Kumar, P. and Kumar, R. and Srivastava, G. and Gupta, G. P. and Tripathi, R. and Gadekallu, T. R. and Xiong, N. N.},
+  title = "{PPSF: A privacy-preserving and secure framework using blockchain-based machine-learning for IoT-driven Smart Cities}",
+  journal = {IEEE Transactions on Network Science and Engineering},
+  volume = {8},
+  number = {3},
+  pages = {2326--2341},
+  year = {2021},
+  doi = {10.1109/tnse.2021.3089435}
+}
+
+
+@inproceedings{gupta2022overview,
+  author = {Gupta, V. and Mishra, V. K. and Singhal, P. and Kumar, A.},
+  title = "{An overview of supervised ML algorithm}",
+  booktitle = {2022 11th International Conference on System Modeling \& Advancement in Research Trends (SMART)},
+  year = {2022},
+  doi = {10.1109/smart55829.2022.10047618}
+}
+@article{nti2022minireview,
+  author = {Nti, I. K. and Quarcoo, J. A. and Aning, J. and Fosu, G. K.},
+  title = "{A mini-review of ML in Big Data Analytics: Applications, challenges, and prospects}",
+  journal = {Big Data Mining and Analytics},
+  volume = {5},
+  number = {2},
+  pages = {81--97},
+  year = {2022},
+  doi = {10.26599/bdma.2021.9020028}
+}
+
+@article{wilhelmi2022latency,
+  author = {Wilhelmi, F. and Barrachina-Munoz, S. and Dini, P.},
+  title = "{End-to-end latency analysis and optimal block size of proof-of-work blockchain applications}",
+  journal = {IEEE Communications Letters},
+  volume = {26},
+  number = {10},
+  pages = {2332--2335},
+  year = {2022},
+  doi = {10.1109/lcomm.2022.3194561}
+}
+
+@article{alladi2022survey,
+  author = {Alladi, T. and Chamola, V. and Sahu, N. and Venkatesh, V. and Goyal, A. and Guizani, M.},
+  title = "{A comprehensive survey on the applications of blockchain for Securing Vehicular Networks}",
+  journal = {IEEE Communications Surveys \& Tutorials},
+  volume = {24},
+  number = {2},
+  pages = {1212--1239},
+  year = {2022},
+  doi = {10.1109/comst.2022.3160925}
+}
+
+@article{zhao2022large,
+  author = {Zhao, X. and Wu, C.},
+  title = "{Large-scale ML cluster scheduling via multi-agent graph reinforcement learning}",
+  journal = {IEEE Transactions on Network and Service Management},
+  volume = {19},
+  number = {4},
+  pages = {4962--4974},
+  year = {2022},
+  doi = {10.1109/tnsm.2021.3139607}
+}
+
+@article{wu2022ml,
+  author = {Wu, J.-G. and Yan, Y. and Zhang, D.-X. and Liu, B.-W. and Zheng, Q.-B. and Xie, X.-L. and Liu, S.-Q. and Ge, S.-X. and Hou, Z.-G. and Xia, N.-S.},
+  title = "{ML for structure determination in single-particle cryo-electron microscopy: A systematic review}",
+  journal = {IEEE Transactions on Neural Networks and Learning Systems},
+  volume = {33},
+  number = {2},
+  pages = {452--472},
+  year = {2022},
+  doi = {10.1109/tnnls.2021.3131325}
+}
+
+@article{feng2022space,
+  author = {Feng, X. and Ma, J. and Wang, H. and Wen, S. and Xiang, Y. and Miao, Y.},
+  title = "{Space-efficient storage structure of blockchain transactions supporting secure verification}",
+  journal = {IEEE Transactions on Cloud Computing},
+  pages = {1--15},
+  year = {2022},
+  doi = {10.1109/tcc.2022.3220664}
+}
+
+@article{sunny2022review,
+  author = {Sunny, F. A. and Hajek, P. and Munk, M. and Abedin, M. Z. and Satu, Md. S. and Efat, Md. I. and Islam, Md. J.},
+  title = "{A systematic review of Blockchain Applications}",
+  journal = {IEEE Access},
+  volume = {10},
+  pages = {59155--59177},
+  year = {2022},
+  doi = {10.1109/access.2022.3179690}
+}
+
+@article{lian2023federated,
+  author = {Lian, Z. and Wang, W. and Han, Z. and Su, C.},
+  title = "{Blockchain-based personalized federated learning for internet of medical things},
+  journal = {IEEE Transactions on Sustainable Computing}",
+  pages = {1--9},
+  year = {2023},
+  doi = {10.1109/tsusc.2023.3279111}
+}
+
+@article{cao2023blockchain,
+  author = {Cao, B. and Wang, Z. and Zhang, L. and Feng, D. and Peng, M. and Zhang, L. and Han, Z.},
+  title = "{Blockchain systems, technologies, and applications: A methodology perspective}",
+  journal = {IEEE Communications Surveys \& Tutorials},
+  volume = {25},
+  number = {1},
+  pages = {353--385},
+  year = {2023},
+  doi = {10.1109/comst.2022.3204702}
+}
+
+@article{vaiyapuri2023blockchain,
+  author = {Vaiyapuri, T. and Shankar, K. and Rajendran, S. and Kumar, S. and Acharya, S. and Kim, H.},
+  title = "{Blockchain assisted data edge verification with consensus algorithm for ML assisted IoT}",
+  journal = {IEEE Access},
+  volume = {11},
+  pages = {55370--55379},
+  year = {2023},
+  doi = {10.1109/access.2023.3280798}
+}
+@article{feng2022storage,
+  author = {Feng, X. and Ma, J. and Wang, H. and Wen, S. and Xiang, Y. and Miao, Y.},
+  title = "{Space-efficient storage structure of blockchain transactions supporting secure verification}",
+  journal = {IEEE Transactions on Cloud Computing},
+  pages = {1--15},
+  year = {2022},
+  doi = {10.1109/tcc.2022.3220664}
+}
+
+@article{zhang2022committee,
+  author = {Zhang, M. and Li, J. and Chen, Z. and Chen, H. and Deng, X.},
+  title = "{An efficient and robust committee structure for Sharding Blockchain}",
+  journal = {IEEE Transactions on Cloud Computing},
+  pages = {1--14},
+  year = {2022},
+  doi = {10.1109/tcc.2022.3217856}
+}
+
+@article{yang2018ridge,
+  author = {Yang, X. and Wen, W.},
+  title = "{Ridge and lasso regression models for cross-version defect prediction}",
+  journal = {IEEE Transactions on Reliability},
+  volume = {67},
+  number = {3},
+  pages = {885--896},
+  year = {2018},
+  doi = {10.1109/tr.2018.2847353}
+}
+
+@article{chou1991partitioning,
+  author = {Chou, P. A.},
+  title = "{Optimal partitioning for classification and regression trees}",
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume = {13},
+  number = {4},
+  pages = {340--354},
+  year = {1991},
+  doi = {10.1109/34.88569}
+}
+
+@article{shamshirband2015fusion,
+  author = {Shamshirband, S. and Petkovic, D. and Javidnia, H. and Gani, A.},
+  title = "{Sensor data fusion by support vector regression methodology—a comparative study}",
+  journal = {IEEE Sensors Journal},
+  volume = {15},
+  number = {2},
+  pages = {850--854},
+  year = {2015},
+  doi = {10.1109/jsen.2014.2356501}
+}
+
+@article{jo2005random,
+  author = {Jo, S. and Yin, J. and Mao, Z.-H.},
+  title = "{Random neural networks with state-dependent firing neurons}",
+  journal = {IEEE Transactions on Neural Networks},
+  volume = {16},
+  number = {4},
+  pages = {980--983},
+  year = {2005},
+  doi = {10.1109/tnn.2005.849829}
+}
+
+@article{tsakiris2020algebraic,
+  author = {Tsakiris, M. C. and Peng, L. and Conca, A. and Kneip, L. and Shi, Y. and Choi, H.},
+  title = "{An algebraic-geometric approach for linear regression without correspondences}",
+  journal = {IEEE Transactions on Information Theory},
+  volume = {66},
+  number = {8},
+  pages = {5130--5144},
+  year = {2020},
+  doi = {10.1109/tit.2020.2977166}
+}
+
+@article{zhang2018efficient,
+  author = {Zhang, S. and Li, X. and Zong, M. and Zhu, X. and Wang, R.},
+  title = "{Efficient KNN classification with different numbers of nearest neighbors}",
+  journal = {IEEE Transactions on Neural Networks and Learning Systems},
+  volume = {29},
+  number = {5},
+  pages = {1774--1785},
+  year = {2018},
+  doi = {10.1109/tnnls.2017.2673241}
+}
+
+@article{rhodes2023geometry,
+  author = {Rhodes, J. S. and Cutler, A. and Moon, K. R.},
+  title = "{Geometry- and accuracy-preserving random forest proximities}",
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume = {45},
+  number = {9},
+  pages = {10947--10959},
+  year = {2023},
+  doi = {10.1109/tpami.2023.3263774}
+}
+
+@article{han2012density,
+  author = {Bohyung Han and Davis, L. S.},
+  title = "{Density-based multifeature background subtraction with support vector machine}",
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume = {34},
+  number = {5},
+  pages = {1017--1023},
+  year = {2012},
+  doi = {10.1109/tpami.2011.243}
+}
+@article{tsang2011decision,
+  author = {Tsang, S. and Kao, B. and Yip, K. Y. and Ho, W.-S. and Lee, S. D.},
+  title = "{Decision trees for uncertain data}",
+  journal = {IEEE Transactions on Knowledge and Data Engineering},
+  volume = {23},
+  number = {1},
+  pages = {64--78},
+  year = {2011},
+  doi = {10.1109/tkde.2009.175}
+}
+
+@article{sinaga2020unsupervised,
+  author = {Sinaga, K. P. and Yang, M.-S.},
+  title = "{Unsupervised K-means clustering algorithm}",
+  journal = {IEEE Access},
+  volume = {8},
+  pages = {80716--80727},
+  year = {2020},
+  doi = {10.1109/access.2020.2988796}
+}
+
+@article{chu2009multiresolution,
+  author = {Chu, H.-K. and Lee, T.-Y.},
+  title = "{Multiresolution mean shift clustering algorithm for shape interpolation}",
+  journal = {IEEE Transactions on Visualization and Computer Graphics},
+  volume = {15},
+  number = {5},
+  pages = {853--866},
+  year = {2009},
+  doi = {10.1109/tvcg.2009.40}
+}
+
+@article{zhang2022superpixel,
+  author = {Zhang, L. and Lu, S. and Hu, C. and Xiang, D. and Liu, T. and Su, Y.},
+  title = "{Superpixel generation for SAR imagery based on fast DBSCAN clustering with edge penalty}",
+  journal = {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume = {15},
+  pages = {804--819},
+  year = {2022},
+  doi = {10.1109/jstars.2021.3131187}
+}
+
+@article{zhou2017method,
+  author = {Zhou, S. and Xu, Z. and Liu, F.},
+  title = "{Method for determining the optimal number of clusters based on agglomerative hierarchical clustering}",
+  journal = {IEEE Transactions on Neural Networks and Learning Systems},
+  volume = {28},
+  number = {12},
+  pages = {3007--3017},
+  year = {2017},
+  doi = {10.1109/tnnls.2016.2608001}
+}
+
+@article{constantinopoulos2006bayesian,
+  author = {Constantinopoulos, C. and Titsias, M. K. and Likas, A.},
+  title = "{Bayesian feature and model selection for gaussian mixture models}",
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume = {28},
+  number = {6},
+  pages = {1013--1018},
+  year = {2006},
+  doi = {10.1109/tpami.2006.111}
+}
+
+@article{sutisna2023farane,
+  author = {Sutisna, N. and Ilmy, A. M. and Syafalni, I. and Mulyawan, R. and Adiono, T.},
+  title = "{Farane-Q: Fast Parallel and Pipeline Q-Learning Accelerator for Configurable Reinforcement Learning Soc}",
+  year = {2023},
+  doi = {10.36227/techrxiv.21435606.v3}
+}
+
+@article{rehman2020trust,
+  author = {Rehman, M. H. and Salah, K. and Damiani, E. and Svetinovic, D.},
+  title = "{Trust in blockchain cryptocurrency ecosystem}",
+  journal = {IEEE Transactions on Engineering Management},
+  volume = {67},
+  number = {4},
+  pages = {1196--1212},
+  year = {2020},
+  doi = {10.1109/tem.2019.2948861}
+}
+
+@article{farooq2022framework,
+  author = {Farooq, M. S. and Iftikhar, U. and Khelifi, A.},
+  title = "{A framework to make voting system transparent using blockchain technology}",
+  journal = {IEEE Access},
+  volume = {10},
+  pages = {59959--59969},
+  year = {2022},
+  doi = {10.1109/access.2022.3180168}
+}
+
+@article{tao2019food,
+  author = {Tao, Q. and Cui, X. and Huang, X. and Leigh, A. M. and Gu, H.},
+  title = "{Food Safety Supervision System based on hierarchical multi-domain Blockchain Network}",
+  journal = {IEEE Access},
+  volume = {7},
+  pages = {51817--51826},
+  year = {2019},
+  doi = {10.1109/access.2019.2911265}
+}
+@article{islam2023lowcost,
+  author = {Islam, Md. M. and Islam, Md. K. and Shahjalal, Md. and Chowdhury, M. Z. and Jang, Y. M.},
+  title = "{A low-cost cross-border payment system based on auditable cryptocurrency with consortium blockchain: Joint Digital Currency}",
+  journal = {IEEE Transactions on Services Computing},
+  pages = {1--14},
+  year = {2023},
+  doi = {10.1109/tsc.2022.3207224}
+}
+
+@article{houssein2021ml,
+  author = {Houssein, E. H. and Mohamed, R. E. and Ali, A. A.},
+  title = "{ML techniques for Biomedical Natural Language Processing: A Comprehensive Review}",
+  journal = {IEEE Access},
+  volume = {9},
+  pages = {140628--140653},
+  year = {2021},
+  doi = {10.1109/access.2021.3119621}
+}
+
+@article{mahadevkar2022review,
+  author = {Mahadevkar, S. V. and Khemani, B. and Patil, S. and Kotecha, K. and Vora, D. R. and Abraham, A. and Gabralla, L. A.},
+  title = "{A review on ML styles in Computer Vision—techniques and future directions}",
+  journal = {IEEE Access},
+  volume = {10},
+  pages = {107293--107329},
+  year = {2022},
+  doi = {10.1109/access.2022.3209825}
+}
+
+@article{iwendi2020realizing,
+  author = {Iwendi, C. and Khan, S. and Anajemba, J. H. and Bashir, A. K. and Noor, F.},
+  title = "{Realizing an efficient IOMT-assisted patient diet recommendation system through ML Model}",
+  journal = {IEEE Access},
+  volume = {8},
+  pages = {28462--28474},
+  year = {2020},
+  doi = {10.1109/access.2020.2968537}
+}
+
+@article{park2022study,
+  author = {Park, C. and Lee, W. and Kim, M.-H. and Kim, U.-M. and Kim, T. and Kim, S.},
+  title = "{A study on traffic prediction for the backbone of Korea’s research and Science Network Using ML}",
+  journal = {Journal of Web Engineering},
+  year = {2022},
+  doi = {10.13052/jwe1540-9589.2152}
+}
+
+@article{akrami2023unleashing,
+  author = {Akrami, N. E. and Hanine, M. and Flores, E. S. and Aray, D. G. and Ashraf, I.},
+  title = "{Unleashing the potential of blockchain and ML: Insights and emerging trends from Bibliometric analysis}",
+  journal = {IEEE Access},
+  volume = {11},
+  pages = {78879--78903},
+  year = {2023},
+  doi = {10.1109/access.2023.3298371}
+}
+
+@article{kim2019efficient,
+  author = {Kim, H. and Kim, S.-H. and Hwang, J. Y. and Seo, C.},
+  title = "{Efficient privacy-preserving ML for Blockchain Network}",
+  journal = {IEEE Access},
+  volume = {7},
+  pages = {136481--136495},
+  year = {2019},
+  doi = {10.1109/access.2019.2940052}
+}
+
+@article{iqbal2021novel,
+  author = {Iqbal, N. and Jamil, F. and Ahmad, S. and Kim, D.},
+  title = "{A novel blockchain-based integrity and Reliable Veterinary Clinic Information Management System using predictive analytics for provisioning of Quality Health Services}",
+  journal = {IEEE Access},
+  volume = {9},
+  pages = {8069--8098},
+  year = {2021},
+  doi = {10.1109/access.2021.3049325}
+}
+
+@article{yang2023improvement,
+  author = {Yang, Z. and Zhu, W. and Yu, M.},
+  title = "{Improvement and optimization of Vulnerability Detection Methods for ethernet smart contracts}",
+  journal = {IEEE Access},
+  volume = {11},
+  pages = {78207--78223},
+  year = {2023},
+  doi = {10.1109/access.2023.3298672}
+}
+
+@article{pranto2022blockchain,
+  author = {Pranto, T. H. and Hasib, K. T. and Rahman, T. and Haque, A. B. and Islam, A. K. and Rahman, R. M.},
+  title = "{Blockchain and ML for fraud detection: A privacy-preserving and adaptive incentive-based approach}",
+  journal = {IEEE Access},
+  volume = {10},
+  pages = {87115--87134},
+  year = {2022},
+  doi = {10.1109/access.2022.3198956}
+}
+@article{zhang2021blockchainml,
+  author = {Zhang, X. and Liu, Y. and Yang, H. and Zhang, Y.},
+  title = "{Blockchain and Machine Learning: Open Challenges and Future Directions}",
+  journal = {IEEE Access},
+  volume = {9},
+  pages = {104547--104562},
+  year = {2021},
+  doi = {10.1109/access.2021.3089634}
+}
+
+@article{chen2021blockchainfuture,
+  author = {Chen, X. and Zhang, Y. and Wang, X.},
+  title = "{Blockchain and Artificial Intelligence: Opportunities and Challenges}",
+  journal = {IEEE Transactions on Emerging Topics in Computing},
+  volume = {9},
+  number = {4},
+  pages = {1464--1478},
+  year = {2021},
+  doi = {10.1109/tetc.2020.3043143}
+}
+
+@article{singh2022survey,
+  author = {Singh, R. and Kumar, M. and Gupta, D. and Rani, S.},
+  title = "{A Survey on Machine Learning in Blockchain: Applications, Challenges, and Future Directions}",
+  journal = {Future Generation Computer Systems},
+  volume = {125},
+  pages = {420--438},
+  year = {2022},
+  doi = {10.1016/j.future.2021.08.045}
+}
+
+@article{li2021blockchainai,
+  author = {Li, X. and Li, W. and Qian, S.},
+  title = "{Blockchain and AI: Future Directions and Research Challenges}",
+  journal = {Journal of Network and Computer Applications},
+  volume = {179},
+  pages = {102963},
+  year = {2021},
+  doi = {10.1016/j.jnca.2020.102963}
+}
+
+@article{fu2022blockchainml,
+  author = {Fu, S. and Wu, L. and Zhang, W. and Wang, K.},
+  title = "{Blockchain and Machine Learning for IoT: Challenges and Future Research Directions}",
+  journal = {IEEE Internet of Things Journal},
+  volume = {9},
+  number = {1},
+  pages = {1--14},
+  year = {2022},
+  doi = {10.1109/jiot.2021.3051363}
+}
+
+@article{liu2022open,
+  author = {Liu, C. and Zhang, Z. and Yao, Y.},
+  title = "{Open Challenges in Blockchain and Machine Learning Integration}",
+  journal = {Computers, Materials \& Continua},
+  volume = {69},
+  number = {3},
+  pages = {3095--3111},
+  year = {2022},
+  doi = {10.32604/cmc.2022.022945}
+}
+
+@article{sharma2023blockchainml,
+  author = {Sharma, P. and Gupta, R. and Soni, P.},
+  title = "{Blockchain and Machine Learning for Secure and Scalable Applications: A Survey and Future Directions}",
+  journal = {Computational Intelligence},
+  volume = {39},
+  number = {1},
+  pages = {49--75},
+  year = {2023},
+  doi = {10.1111/coin.12325}
+}
+
+@article{zhang2023futureblockchain,
+  author = {Zhang, Q. and Liu, T. and Liu, F.},
+  title = "{Future Directions in Blockchain and Machine Learning for Decentralized Applications}",
+  journal = {IEEE Access},
+  volume = {11},
+  pages = {20943--20956},
+  year = {2023},
+  doi = {10.1109/access.2023.3299680}
+}
+
+@article{chandra2022blockchainai,
+  author = {Chandra, S. and Dey, N. and Prabhu, D.},
+  title = "{Blockchain and Artificial Intelligence: Open Issues and Future Research Directions}",
+  journal = {Springer Computing},
+  volume = {104},
+  number = {2},
+  pages = {247--263},
+  year = {2022},
+  doi = {10.1007/s00607-022-00934-1}
+}
+
+@article{li2021blockchainfederated,
+  author = {Li, J. and Zhang, L. and Wang, H.},
+  title = "{Federated Learning and Blockchain: Open Challenges and Research Directions}",
+  journal = {IEEE Transactions on Network and Service Management},
+  volume = {18},
+  number = {2},
+  pages = {1196--1209},
+  year = {2021},
+  doi = {10.1109/tnsm.2021.3100765}
+}
+
+@article{wu2022blockchainlearning,
+  author = {Wu, X. and Zhang, J. and Zhu, W.},
+  title = "{Blockchain and Machine Learning: Open Challenges in Security and Privacy}",
+  journal = {IEEE Transactions on Dependable and Secure Computing},
+  volume = {19},
+  number = {3},
+  pages = {1480--1493},
+  year = {2022},
+  doi = {10.1109/tdsc.2021.3074927}
+}
+
+@article{liu2021blockchainedge,
+  author = {Liu, L. and Yang, C. and Li, J.},
+  title = "{Edge Computing with Blockchain and Machine Learning: Opportunities and Challenges}",
+  journal = {IEEE Transactions on Industrial Informatics},
+  volume = {18},
+  number = {1},
+  pages = {21--34},
+  year = {2021},
+  doi = {10.1109/tii.2020.3035200}
+}
+
+@article{wang2022blockchainml,
+  author = {Wang, Y. and Lin, Z. and Liu, Z.},
+  title = "{Blockchain-Based Machine Learning: Opportunities, Challenges, and Research Directions}",
+  journal = {Journal of Computer Science and Technology},
+  volume = {37},
+  number = {3},
+  pages = {563--578},
+  year = {2022},
+  doi = {10.1007/s11390-022-2334-7}
+}
+
+@article{patel2022blockchainlearning,
+  author = {Patel, D. and Shukla, A. and Srivastava, A.},
+  title = "{Blockchain and Machine Learning: A Survey on Open Challenges and Future Directions}",
+  journal = {AI \& Society},
+  volume = {37},
+  number = {1},
+  pages = {1--17},
+  year = {2022},
+  doi = {10.1007/s00146-021-01185-6}
+}
+
+@article{tariq2021blockchain,
+  author = {Tariq, U. and Ahmad, R. and Khan, A.},
+  title = "{Blockchain and Machine Learning: Future Trends and Open Issues}",
+  journal = {Journal of Computer Networks and Communications},
+  volume = {2021},
+  pages = {1--16},
+  year = {2021},
+  doi = {10.1155/2021/6672748}
+}
+
+@article{xu2022blockchainml,
+  author = {Xu, H. and Zhao, L. and Zhang, M.},
+  title = "{Blockchain and Machine Learning for Digital Twin: Challenges and Research Directions}",
+  journal = {IEEE Internet of Things Journal},
+  volume = {9},
+  number = {1},
+  pages = {1--12},
+  year = {2022},
+  doi = {10.1109/jiot.2021.3066632}
+}
+
+@article{gupta2022blockchain,
+  author = {Gupta, M. and Dubey, S. and Garg, S.},
+  title = "{Challenges and Future Directions in the Integration of Blockchain with Machine Learning}",
+  journal = {Proceedings of the International Conference on Artificial Intelligence},
+  pages = {185--197},
+  year = {2022},
+  doi = {10.1007/978-3-030-42309-3_14}
+}
+
+@article{peng2021blockchainmachine,
+  author = {Peng, C. and Zhao, T. and Zhang, L.},
+  title = "{Machine Learning in Blockchain: A Review of Open Challenges and Future Directions}",
+  journal = {Journal of Computer Science and Technology},
+  volume = {36},
+  number = {4},
+  pages = {715--732},
+  year = {2021},
+  doi = {10.1007/s11390-021-0213-9}
+}
+
+@article{zhou2022blockchain,
+  author = {Zhou, S. and Chen, Y. and Yang, H.},
+  title = "{Blockchain and Machine Learning Integration: Research Challenges and Future Directions}",
+  journal = {Computers \& Security},
+  volume = {105},
+  pages = {102258},
+  year = {2022},
+  doi = {10.1016/j.cose.2021.102258}
+}
+
+@article{yu2021blockchain,
+  author = {Yu, Z. and Zhang, X. and Luan, X.},
+  title = "{Blockchain and Machine Learning for Secure Cloud Computing: A Survey of Open Challenges and Future Directions}",
+  journal = {IEEE Transactions on Cloud Computing},
+  volume = {9},
+  number = {6},
+  pages = {1801--1812},
+  year = {2021},
+  doi = {10.1109/tcc.2021.3094015}
+}
+
+@article{li2022blockchainmachine,
+  author = {Li, Q. and Jiang, Z. and Xu, W.},
+  title = "{Machine Learning and Blockchain for Privacy-Preserving Systems: Challenges and Future Directions}",
+  journal = {Future Generation Computer Systems},
+  volume = {124},
+  pages = {266--279},
+  year = {2022},
+  doi = {10.1016/j.future.2021.08.050}
+}
+
+@article{zhao2022blockchain,
+  author = {Zhao, X. and Liang, W. and Huang, X.},
+  title = "{Blockchain for Machine Learning: Open Challenges and Research Directions}",
+  journal = {Journal of Artificial Intelligence Research},
+  volume = {73},
+  pages = {353--373},
+  year = {2022},
+  doi = {10.1613/jair.1.13397}
+}
+
+@article{lu2021blockchainml,
+  author = {Lu, J. and Zhang, X. and Yang, T.},
+  title = "{Blockchain and Machine Learning: Open Issues and Future Research Directions}",
+  journal = {Journal of Computational Science},
+  volume = {47},
+  pages = {101249},
+  year = {2021},
+  doi = {10.1016/j.jocs.2021.101249}
+}
+
+@article{wang2021blockchainai,
+  author = {Wang, H. and Zhang, Y. and Lin, Q.},
+  title = "{Blockchain and AI in IoT: Current Trends, Open Issues, and Future Directions}",
+  journal = {IEEE Internet of Things Journal},
+  volume = {8},
+  number = {7},
+  pages = {5618--5632},
+  year = {2021},
+  doi = {10.1109/jiot.2020.2991186}
+}
+
+@article{sharma2022blockchain,
+  author = {Sharma, S. and Verma, R. and Mishra, A.},
+  title = "{Blockchain and Machine Learning: Open Challenges in Healthcare and Future Directions}",
+  journal = {Healthcare Technology Letters},
+  volume = {9},
+  number = {1},
+  pages = {15--22},
+  year = {2022},
+  doi = {10.1049/htl2.12047}
+}
+
+@article{xiang2022blockchain,
+  author = {Xiang, X. and Liu, F. and Chen, Y.},
+  title = "{Blockchain and Machine Learning: Security Issues and Research Directions}",
+  journal = {IEEE Transactions on Network and Service Management},
+  volume = {19},
+  number = {4},
+  pages = {1479--1493},
+  year = {2022},
+  doi = {10.1109/tnsm.2022.3144603}
+}
+
+@article{lui2021blockchain,
+  author = {Lui, S. and Liu, L. and Zhang, H.},
+  title = "{Blockchain and Machine Learning for Secure Data Sharing: A Review and Future Directions}",
+  journal = {Data Science and Engineering},
+  volume = {6},
+  number = {3},
+  pages = {289--303},
+  year = {2021},
+  doi = {10.1007/s41019-021-00116-0}
+}
+
+@article{a2024,
+  author = {Mishra, K.N. and Bhattacharjee, V. and Saket, S. and et al.},
+  title = "{Security provisions in smart edge computing devices using blockchain and machine learning algorithms: a novel approach}",
+  journal = {Cluster Computing},
+  volume = {27},
+  pages = {27--52},
+  year = {2024},
+  doi = {10.1007/s10586-022-03813-x}
+}
+
+@article{bLingayya2024,
+  author = {Lingayya, S. and Jodumutt, S.B. and Pawar, S.R. and et al.},
+  title = "{Dynamic task offloading for resource allocation and privacy-preserving framework in Kubeedge-based edge computing using machine learning}",
+  journal = {Cluster Computing},
+  volume = {27},
+  pages = {9415--9431},
+  year = {2024},
+  doi = {10.1007/s10586-024-04420-8}
+}
+
+@article{cAgrawal2024,
+  author = {Agrawal, R. and Singhal, S. and Sharma, A.},
+  title = "{Blockchain and fog computing model for secure data access control mechanisms for distributed data storage and authentication using hybrid encryption algorithm}",
+  journal = {Cluster Computing},
+  volume = {27},
+  pages = {8015--8030},
+  year = {2024},
+  doi = {10.1007/s10586-024-04411-9}
+}
+
+@article{dRao2024,
+  author = {Rao, I.S. and Kiah, M.L.M. and Hameed, M.M. and et al.},
+  title = "{Scalability of blockchain: a comprehensive review and future research direction}",
+  journal = {Cluster Computing},
+  volume = {27},
+  pages = {5547--5570},
+  year = {2024},
+  doi = {10.1007/s10586-023-04257-7}
+}
+
+@article{eAlimoglu2024,
+  author = {Alimoğlu, A. and Özturan, C.},
+  title = "{An autonomous blockchain-based workflow execution broker for e-science}",
+  journal = {Cluster Computing},
+  volume = {27},
+  pages = {10235--10244},
+  year = {2024},
+  doi = {10.1007/s10586-024-04534-z}
+}
+@article{A1,
+author={Rajasekaran, Arun Sekar and Azees, Maria},
+title = "{A comprehensive survey on blockchain technology}",
+journal = {Sustainable Energy Technologies and Assessments},
+volume = {52},
+pages = {102039},
+year = {2022},
+issn = {2213-1388}
+}
+@ARTICLE{A2,
+  author={Iqbal, Atif and Rajasekaran, Arun Sekar and Nikhil, Gadilli Sai and Azees, Maria},
+  journal={IEEE Access}, 
+  title="{A Secure and Decentralized Blockchain Based EV Energy Trading Model Using Smart Contract in V2G Network}", 
+  year={2021},
+  volume={9},
+  number={},
+  pages={75761-75777}
+}
+@Article{A3,
+AUTHOR = {Maria, Azees and Rajasekaran, Arun Sekar and Al-Turjman, Fadi and Altrjman, Chadi and Mostarda, Leonardo},
+TITLE = "{BAIV: An Efficient Blockchain-Based Anonymous Authentication and Integrity Preservation Scheme for Secure Communication in VANETs}",
+JOURNAL = {Electronics},
+VOLUME = {11},
+YEAR = {2022},
+NUMBER = {3},
+ARTICLE-NUMBER = {488}
+}
+@Article{A4,
+AUTHOR = {Rajasekaran, Arun Sekar and Maria, Azees and Rajagopal, Maheswar and Lorincz, Josip},
+TITLE = "{Blockchain Enabled Anonymous Privacy-Preserving Authentication Scheme for Internet of Health Things}",
+JOURNAL = {Sensors},
+VOLUME = {23},
+YEAR = {2023},
+NUMBER = {1},
+ARTICLE-NUMBER = {240}}
+@article{A5,
+  author = {Rajasekaran, Arun Sekar and Azees, M.},
+  title = "{An Anonymous Blockchain-Based Authentication Scheme for Secure Healthcare Applications}",
+  journal = {Security and communication networks},
+  year = {2022},
+  volume = {2022},
+  pages = {2793116},
+  doi = {10.1155/2022/2793116}
+}
+		  
+  
+
